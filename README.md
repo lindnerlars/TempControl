@@ -14,3 +14,9 @@ Dieses Projekt ist die Version vom 10. Juni, welche folgende Funktionen beinhalt
 - Wifi Komponente, um Http get auszuwerten und zu antworten. Diese Kompente wurde aber deaktiviert, da es Probleme mit der Verbindung zu Adafruit gab
 
 - alle Aktionen werden mittels "Delays without blocking" implementiert und aufgerufen
+
+
+# Demonstration Video
+
+https://www.youtube.com/watch?v=vkvM4VjSYzI&list=PLpu1RRMUB0SnaShL-RaSORJaQOhAVAWwm&index=4&t=0s
+
